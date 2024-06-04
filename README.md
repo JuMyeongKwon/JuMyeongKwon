@@ -12,6 +12,7 @@
 </a> </a> <a href="https://jumyeongkwon.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
+<br>
 
 ## 🌟 Activities
 - Vice President of KHUDA 5th, Data Analysis & AI Club, Kyung Hee Univ. (RL Track) (Since January 2024)
